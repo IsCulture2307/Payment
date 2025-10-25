@@ -8,7 +8,7 @@
 #### 📍 **专注印度支付系统 | 三年深耕经验**
 
 AntsPay技术服务团队专注于**海外支付系统解决方案（主营印度）**，凭借**三年行业积累**，致力于为客户提供**高效、安全、灵活**的技术服务支持。我们以扎实的技术实力，帮助客户在快速变化的市场中保持竞争力，推动业务稳健发展。
-![唤醒大盘示例](https://github.com/JonathanTrum/BigDipper-IndianPayment/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9B%91%E6%8E%A7%E7%A4%BA%E4%BE%8B.jpg)
+![唤醒大盘示例](https://github.com/IsCulture2307/Payment/blob/main/%E5%94%A4%E9%86%92%E5%A4%A7%E7%9B%98%E7%A4%BA%E4%BE%8B.png)
 ***
 
 #### 💼 **服务广泛 | 深获信赖**
@@ -28,18 +28,18 @@ AntsPay技术服务团队专注于**海外支付系统解决方案（主营印�
 支持账户：SBI/SIB/RBL/KOTAK/CANARA/INDINABK/MAHARASHTRA/BOB/BOI/HDFC/IOB/UCO/FED/PNB/IDFC等
 
 提供高效、安全的支付对接，系统搭建完善，技术支持专业，保障客户业务顺畅运行。
-![钱包监控示例](https://github.com/JonathanTrum/BigDipper-IndianPayment/blob/main/%E5%8D%A1%E6%8E%A5%E5%90%8E%E5%8F%B0%E7%A4%BA%E4%BE%8B.jpg)
+![钱包监控示例](https://github.com/IsCulture2307/Payment/blob/main/%E9%92%B1%E5%8C%85%E7%9B%91%E6%8E%A7%E7%A4%BA%E4%BE%8B%E5%9B%BE.jpg)
 
 ***
 💳 **跑分系统**：无需收卡，由阿三注册跑分APP，提供钱包UPI，进行收付款，通过交易获取佣金，在APP内实时结算。一定程度上缓解账户问题，降低成本。支持接入商户、平台。
 
-**支持收款钱包**：Mobikwik、Airtle、Phonepe、Induspay、Utkarash、JioFinance、ESAF
+**支持收款钱包**：Mobikwik、Airtel、Phonepe、Induspay、Utkarash、JioFinance、ESAF
 
 **支持付款钱包**：Mobikwik、Freecharge、MyJio
-![跑分app示例](https://github.com/JonathanTrum/BigDipper-IndianPayment/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9B%91%E6%8E%A7%E7%A4%BA%E4%BE%8B.jpg)
+![跑分app示例](https://github.com/IsCulture2307/Payment/blob/main/%E8%B7%91%E5%88%86app%E7%A4%BA%E4%BE%8B1.jpg)
 
 创新支付流程设计，结构完整，助力客户降低成本，提高运营效率。
-![钱包余额及自动化代付示例示例](https://github.com/JonathanTrum/BigDipper-IndianPayment/blob/main/%E8%B7%91%E5%88%86%E5%90%8E%E5%8F%B0%E7%A4%BA%E4%BE%8B.png)
+![钱包余额及自动化代付示例示例](https://github.com/IsCulture2307/Payment/blob/main/%E9%92%B1%E5%8C%85%E4%BD%99%E9%A2%9D%E5%8F%8A%E8%87%AA%E5%8A%A8%E5%8C%96%E4%BB%A3%E4%BB%98%E7%A4%BA%E4%BE%8B.jpg)
 
 
 每个系统每日交易量均达**5000万**以上，最高支持**亿级**交易量。
@@ -49,7 +49,7 @@ AntsPay技术服务团队专注于**海外支付系统解决方案（主营印�
 ✅**系统配套**
 
 **提供TG机器人，自助查补单**；**提供记账机器人**；**OTP实时监控，掉线预警**；**收款账户余额预警**；**后台账户预警，风险控制**等。
-![TG自动化转账示例](https://github.com/JonathanTrum/BigDipper-IndianPayment/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9B%91%E6%8E%A7%E7%A4%BA%E4%BE%8B.jpg)
+![TG自动化转账示例](https://github.com/IsCulture2307/Payment/blob/main/TG%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BD%AC%E8%B4%A6%E7%A4%BA%E4%BE%8B.jpg)
 
 
 以上产品均可出租，如需了解更多服务详情，请联系TG：
