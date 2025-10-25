@@ -33,9 +33,9 @@ AntsPay技术服务团队专注于**海外支付系统解决方案（主营印�
 ***
 💳 **跑分系统**：无需收卡，由阿三注册跑分APP，提供钱包UPI，进行收付款，通过交易获取佣金，在APP内实时结算。一定程度上缓解账户问题，降低成本。支持接入商户、平台。
 
-**支持收款钱包**：Mobikwik、Airtel、Phonepe、Induspay、Utkarash、JioFinance、ESAF
+**支持收款钱包**：Mobikwik、Airtel、Phonepe(测试中)、Induspay(测试中)、Utkarash(测试中)、JioFinance(测试中)、ESAF(测试中)
 
-**支持付款钱包**：Mobikwik、Freecharge、MyJio
+**支持付款钱包**：Mobikwik、Airtel、Freecharge(测试中)、MyJio(测试中)
 ![跑分app示例](https://github.com/IsCulture2307/Payment/blob/main/%E8%B7%91%E5%88%86app%E7%A4%BA%E4%BE%8B1.jpg)
 
 创新支付流程设计，结构完整，助力客户降低成本，提高运营效率。
